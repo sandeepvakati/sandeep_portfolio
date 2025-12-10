@@ -1,0 +1,11 @@
+# Config file with sensitive keys
+config.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
